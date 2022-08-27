@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Odugoudar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanodugoudar&label=Profile%20views&color=0e75b6&style=flat" alt="aryanodugoudar" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Building my own website**
 
-- 🌱 I’m currently learning **Django, Node JS, GCP,Java**
+- 🌱 I’m currently learning **Machine Learnign, Deep Learning**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryanodugoudar](https://github.com/Aryanodugoudar)
 
