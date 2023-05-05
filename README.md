@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/aryan_odugoudar" target="blank"><img src="https://img.shields.io/twitter/follow/aryan_odugoudar?logo=twitter&style=for-the-badge" alt="aryan_odugoudar" /></a> </p>
 
-- 🔭 I’m currently working on **Building my own website**
+- 🔭 Find me on https://aryan-odugoudar.netlify.app
 
-- 🌱 I’m currently learning **Machine Learnign, Deep Learning**
-
-- 🤝 I’m looking for help with **Deep Learning**
+- 🌱 I’m currently Exploring **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryanodugoudar](https://github.com/Aryanodugoudar)
 
